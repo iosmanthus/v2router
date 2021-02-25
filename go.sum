@@ -248,6 +248,8 @@ github.com/imdario/mergo v0.3.9/go.mod h1:2EnlNZ0deacrJVfApfmtdGgDfMuh/nq6Ok1EcJ
 github.com/inconshreveable/mousetrap v1.0.0/go.mod h1:PxqpIevigyE2G7u3NXJIT2ANytuPF1OarO4DADm73n8=
 github.com/influxdata/influxdb1-client v0.0.0-20191209144304-8bf82d3c094d/go.mod h1:qj24IKcXYK6Iy9ceXlo3Tc+vtHo9lIhSX5JddghvEPo=
 github.com/infobloxopen/go-trees v0.0.0-20190313150506-2af4e13f9062/go.mod h1:PcNJqIlcX/dj3DTG/+QQnRvSgTMG6CLpRMjWcv4+J6w=
+github.com/iosmanthus/geomatch v0.0.0-20210225085458-647a48e0b6d0 h1:nhP9Z53tmjaHMlAljeuyE4iUfuSpMzlu9zQ81yRGd60=
+github.com/iosmanthus/geomatch v0.0.0-20210225085458-647a48e0b6d0/go.mod h1:eWfjtcwVNrks6RM5367K6/mkUhJoyd9IZo9q4yGmP7Q=
 github.com/jmespath/go-jmespath v0.0.0-20180206201540-c2b33e8439af/go.mod h1:Nht3zPeWKUH0NzdCt2Blrr5ys8VGpn0CEB0cQHVjt7k=
 github.com/jmespath/go-jmespath v0.4.0/go.mod h1:T8mJZnbsbmF+m6zOOFylbeCJqk5+pHWvzYPziyZiYoo=
 github.com/jmespath/go-jmespath/internal/testify v1.5.1/go.mod h1:L3OGu8Wl2/fWfCI6z80xFu9LTZmf1ZRjMHUOPmWr69U=
